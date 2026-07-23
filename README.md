@@ -1,0 +1,2 @@
+# Aircraft-Collision-Detection-and-Rerouting-System
+Built an aircraft collision avoidance system using Multi-Poisson Layer Modelling to model air traffic across altitude layersIt.integrates weather data, traffic density,and machine learning to predict and minimize collision risk.  Dynamic rerouting ensures safe and efficient navigation by continuously evaluating environmental and operational hazards
